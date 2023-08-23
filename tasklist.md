@@ -1,3 +1,3 @@
 ## Tasks
 
-[ ] Create a landing page
+- [ ] Create a landing page
