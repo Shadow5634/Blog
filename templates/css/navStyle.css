@@ -1,8 +1,9 @@
 .navContainer
 {
   width: 100%;
-  background-color: aquamarine;
+  background-color: rgb(200, 200, 250);
   padding: 0.001rem;
+  margin-bottom: 1em;
 }
 
 .navList
@@ -11,5 +12,6 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
 
+  gap:1em;
   list-style-type: none;
 }
