@@ -1,0 +1,14 @@
+.navContainer
+{
+  width: 100%;
+  background-color: aquamarine;
+}
+
+.navList
+{
+  display: flex;
+  flex-direction: row;
+
+  list-style-type: none;
+  gap: 1em;
+}
