@@ -2,13 +2,14 @@
 {
   width: 100%;
   background-color: aquamarine;
+  padding: 0.001rem;
 }
 
 .navList
 {
   display: flex;
-  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 
   list-style-type: none;
-  gap: 1em;
 }
